@@ -4,7 +4,8 @@
 My name is P. I am a senior Biology major with minors in Data Science and Poverty Studies at Washington & Lee University in Lexington, VA! As a student with 3 years of undergraduate research experience in biology, sociology, and data science, I am passionate about using...
 
 # Programming Languages 
-![image](https://github.com/user-attachments/assets/d4b57e40-5e4f-4c61-a0bc-294c24e2b351) ![image](https://github.com/user-attachments/assets/035252be-d4e3-4edb-82bc-aecc556b161e) ![image](https://github.com/user-attachments/assets/37edade0-2ac5-46d5-9426-87a1e6d3223f)
+![Untitled design (3)](https://github.com/user-attachments/assets/f205780b-c12a-411e-8e9b-a28b59cefc00)
+
 
 
 # Current Projects
