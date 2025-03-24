@@ -3,6 +3,9 @@
 # About me
 My name is P. I am a senior Biology major with minors in Data Science and Poverty Studies at Washington & Lee University in Lexington, VA! As a student with 3 years of undergraduate research experience in biology, sociology, and data science, I am passionate about using...
 
+# Current Projects
+
+
 <!--
 **pgbarnes/pgbarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
