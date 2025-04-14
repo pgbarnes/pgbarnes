@@ -1,12 +1,10 @@
 # 🌱  P Barnes
 
 ## 🔬 About me
+###### Pronouns: they/them
 Hello! My name is P. I am a senior Biology major with minors in Data Science and Poverty Studies at Washington & Lee University in Lexington, VA! As a student with 3 years of undergraduate research experience in biology, sociology, and data science, I am passionate about using the skills I have learnt in the classroom and lab to systematically address the issues I care about. 
 
-Pronouns: they/them
-Hometown: Chicago Ridge, IL
-GPA: 3.725/4.0
-Interests: Volleyball, the gym, movies, art, gaming
+
 
 ## 💻 Programming Languages 
 ![Untitled_design__5_-removebg-preview](https://github.com/user-attachments/assets/9a87f50b-3cf5-4704-bc18-95680e95c696) ![Untitled_design__6_-removebg-preview](https://github.com/user-attachments/assets/c55e0c19-2a40-4bbd-8429-8e6016af51e1) ![Untitled_design__4_-removebg-preview](https://github.com/user-attachments/assets/bddc281d-7b37-4b26-beef-c73928eb5675) 
