@@ -37,7 +37,7 @@ One of our final figures. The Principal Component Analysis revealed some of the 
 
 
 #### 🐁 + ⏰ - Bio 297 Behavioral Data Science Final Project: Exploring Behavioral Patterns in SCN DKO and Control Mice
-Overview: 
+Overview: Similar to my previous work on my Bio 187 final project, we were provided activity data from  
 
 #### 🏫 + 🫂 - Soan 244 Personal Netowrks & Social Capital: The Influence of Student’s Ethnoracial Identity and Greek Life Affiliation on their Sense of Belonging and Network Structure
 Overview: 
