@@ -1,4 +1,5 @@
-# 🌱  P Barnes (they/them)
+# 🌱  P Barnes 
+##### (they/them)
 
 ## 🔬 About me
 Hello! My name is P. I am a senior Biology major with minors in Data Science and Poverty Studies at Washington & Lee University in Lexington, VA! As a student with 3 years of undergraduate research experience in biology, sociology, and data science, I am passionate about using the skills I have learnt in the classroom and lab to systematically address the issues I care about. 
