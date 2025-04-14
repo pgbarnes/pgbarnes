@@ -10,7 +10,7 @@ My name is P. I am a senior Biology major with minors in Data Science and Povert
 As of right now, I am wrapping up my undergraduate career and applying for future opportunities. Outside of my studies, I am getting familiar with SQL using leetcode and other available resources.
 
 ### 🐁 + 🍿 - Neuroscience and Biology Research w/ Dr. I'Anson: Exploring Snacking's Role in the Development of Metabolic Disease using a Novel Snacking Rat Model
-
+Currently, we are finishing up some quantification, analysis, and just started writing our paper on the impacts of snacking from weaning!
 
 ### 🌡️ + 🧣 - Bio 201 Biostatistics Final Project: How Long to Wait Before Using an Infrared No-Touch Forehead Thermometer After Wearing Headwear
 Overview: 
@@ -18,19 +18,21 @@ Overview:
 ## 📊 Past Projects
 
 ### 🐁 + 🧠 - Bio 187 Intro to Python Final Project: Inhibition of Iron and its Effect on Neuroinflammation
-
+Overview: 
 
 ### 🐁 + ⏰ - Bio 297 Behavioral Data Science Final Project: Exploring Behavioral Patterns in SCN DKO and Control Mice
-
+Overview: 
 
 ### 🏫 + 🫂 - Soan 244 Personal Netowrks & Social Capital: The Influence of Student’s Ethnoracial Identity and Greek Life Affiliation on their Sense of Belonging and Network Structure
-
+Overview: 
 
 ### 🦠 + 🇺🇸 - Independent Study: How COVID-19 Deaths Varied over Time by Race & Ethnicity in the U.S.
-
+Overview: 
 
 ### 🤝 + 🌎 - Summer 2024 Sociology and Data Science Research w/ Dr. Eastwood: Exploring Cyncisim Around the World
+Overview: 
 ![DSCF8603](https://github.com/user-attachments/assets/78b522cb-db70-479d-bd83-f0252787d06d)
+A picture of the team!
 
 <!--
 **pgbarnes/pgbarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
