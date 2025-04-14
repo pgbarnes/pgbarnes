@@ -27,9 +27,11 @@ Overview: For my final for my Biostatistics course, I along with a team of other
 Overview: For this group project, we were given gene expression data for control and treatment mice from Dr. Katie Volk's lab from Vanderbilt University. We were assigned to investigate potential genes that are affected by the treatment which blocked iron uptake in the brain and how it affected the progression of Alzheimer's Disease. Data analysis was completed in Python. Every figure was coded in 25 lines or less (excluding created functions).
 
 <img width="431" alt="Screen Shot 2025-04-14 at 6 32 43 PM" src="https://github.com/user-attachments/assets/58ef22d6-03c6-4a92-8da3-be89c16865d1" />
+
 Experimental Design for the data. 
 
 <img width="567" alt="Screen Shot 2025-04-14 at 6 33 08 PM" src="https://github.com/user-attachments/assets/07aa1f95-f336-4949-9ee9-c873247af651" />
+
 One of our final figures. The Principal Component Analysis revealed some of the key differences in gene expression between diseased mice with treatment (KDLPS), who more aligned with the control (saline), versus diseased mice without treatment (LPS). We also identified KD LPS mice who did not properly uptake the genetic knockdown treatment as they were more simialr to LPS mice than saline mice.  
 
 
