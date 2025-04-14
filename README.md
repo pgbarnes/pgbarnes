@@ -9,27 +9,30 @@ Hello! My name is P. I am a senior Biology major with minors in Data Science and
 ## 🚧 Current Projects
 As of right now, I am wrapping up my undergraduate career and applying for future opportunities. Outside of my studies, I am getting familiar with SQL using leetcode and other available resources.
 
-### 🐁 + 🍿 - Neuroscience and Biology Research w/ Dr. I'Anson: Exploring Snacking's Role in the Development of Metabolic Disease using a Novel Snacking Rat Model
-Currently, we are finishing up some quantification, analysis, and just started writing our paper on the impacts of snacking from weaning!
+#### 🐁 + 🍿 - Neuroscience and Biology Research w/ Dr. I'Anson: Exploring Snacking's Role in the Development of Metabolic Disease using a Novel Snacking Rat Model
+Currently, we are finishing up final quantification, data analysis, and just started writing our paper on the impacts of snacking from weaning!
 
-### 🌡️ + 🧣 - Bio 201 Biostatistics Final Project: How Long to Wait Before Using an Infrared No-Touch Forehead Thermometer After Wearing Headwear
-Overview: 
+#### 🌡️ + 🧣 - Bio 201 Biostatistics Final Project: How Long to Wait Before Using an Infrared No-Touch Forehead Thermometer After Wearing Headwear
+Overview: For my final for my Biostatistics course, I along with a team of other students created and implimented an experiment to verify the quality of a provided medical device. We were assigned an Infrared No-Touch Forehead Thermometer (INTFT) and noticed there was no guidelines regarding headwear and its effect of temperature on the device's measurement. Therefore, we created an experiment to find a reasonable parameter to include in the device's manual to improve its ease of use. We are currently finshing the report. All data analysis was conducted in excel. 
+<img width="499" alt="Screen Shot 2025-04-14 at 6 22 41 PM" src="https://github.com/user-attachments/assets/4b86aa98-ecb3-41ea-b338-f63e4dca21c5" />
+<img width="549" alt="Screen Shot 2025-04-14 at 6 23 51 PM" src="https://github.com/user-attachments/assets/f7fd50e0-4dd9-411c-a83e-ccd40849ccea" />
+
 
 ## 📊 Past Projects
 
-### 🐁 + 🧠 - Bio 187 Intro to Python Final Project: Inhibition of Iron and its Effect on Neuroinflammation
+#### 🐁 + 🧠 - Bio 187 Intro to Python Final Project: Inhibition of Iron and its Effect on Neuroinflammation
 Overview: 
 
-### 🐁 + ⏰ - Bio 297 Behavioral Data Science Final Project: Exploring Behavioral Patterns in SCN DKO and Control Mice
+#### 🐁 + ⏰ - Bio 297 Behavioral Data Science Final Project: Exploring Behavioral Patterns in SCN DKO and Control Mice
 Overview: 
 
-### 🏫 + 🫂 - Soan 244 Personal Netowrks & Social Capital: The Influence of Student’s Ethnoracial Identity and Greek Life Affiliation on their Sense of Belonging and Network Structure
+#### 🏫 + 🫂 - Soan 244 Personal Netowrks & Social Capital: The Influence of Student’s Ethnoracial Identity and Greek Life Affiliation on their Sense of Belonging and Network Structure
 Overview: 
 
-### 🦠 + 🇺🇸 - Independent Study: How COVID-19 Deaths Varied over Time by Race & Ethnicity in the U.S.
+#### 🦠 + 🇺🇸 - Independent Study: How COVID-19 Deaths Varied over Time by Race & Ethnicity in the U.S.
 Overview: 
 
-### 🤝 + 🌎 - Summer 2024 Sociology and Data Science Research w/ Dr. Eastwood: Exploring Cyncisim Around the World
+#### 🤝 + 🌎 - Summer 2024 Sociology and Data Science Research w/ Dr. Eastwood: Exploring Cyncisim Around the World
 Overview: 
 ![DSCF8603](https://github.com/user-attachments/assets/78b522cb-db70-479d-bd83-f0252787d06d)
 A picture of the team!
