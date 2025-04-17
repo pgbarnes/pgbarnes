@@ -38,7 +38,15 @@ One of our final figures. The Principal Component Analysis revealed some of the 
 
 
 #### ⏰ Bio 297 Behavioral Data Science Final Project: Exploring Behavioral Patterns in SCN DKO and Control Mice
-Overview: Similar to my previous work on my Bio 187 final project, we were provided activity data from  
+Overview: Similar to my previous work on my Bio 187 final project, we were provided rat activity data from Dr. Lauren Woodie's lab from University of Pennsylvania. We were assigned to identify which animals have received a neurological treatment that affected their behavior versus the control animals. We had to calculat each animal's activity period based on the raw data then utilized autcorrelation and raster plots to visualize the differences in acitivity to make our final decision. This project was recommended by our professor, Dr. Toporikova, to be submitted to the Undergraduate Class Project competition. 
+
+<img width="514" alt="Screen Shot 2025-04-16 at 10 03 10 PM" src="https://github.com/user-attachments/assets/a998fe78-7db7-40e9-87d7-e1705cefeab3" />
+Raster plots visualizing the activity of the animals. Scatterplot compares the light and dark period of each animal. The red dashed line demonstrates the highest period length of the SCN DKO animals of 22.37 hours.
+
+<img width="425" alt="Screen Shot 2025-04-16 at 10 03 28 PM" src="https://github.com/user-attachments/assets/328c45aa-5eec-4d58-b951-a53914ee58a0" />
+Autocorrelation plot comparing the circardian rhthyms of control versus treatment rats. 
+
+
 
 #### 🫂 Soan 244 Personal Netowrks & Social Capital: The Influence of Student’s Ethnoracial Identity and Greek Life Affiliation on their Sense of Belonging and Network Structure
 Overview: 
