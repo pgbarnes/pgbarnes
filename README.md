@@ -12,13 +12,13 @@ Hello! My name is P. I am a senior Biology major with minors in Data Science and
 ## 🚧 Current Projects
 As of right now, I am wrapping up my undergraduate career and applying for future opportunities. Outside of my studies, I am getting familiar with SQL using leetcode and other available resources.
 
-#### 🍿  Neuroscience and Biology Research w/ Dr. I'Anson
-### Exploring Snacking's Role in the Development of Metabolic Disease using a Novel Snacking Rat Model
+### 🍿  Neuroscience and Biology Research w/ Dr. I'Anson
+#### Exploring Snacking's Role in the Development of Metabolic Disease using a Novel Snacking Rat Model
 Currently, we are finishing up final quantification, data analysis, and just started writing our paper on the impacts of snacking from weaning!
 
 
-#### 🌡️  Bio 201 Biostatistics Final Project
-### How Long to Wait Before Using an Infrared No-Touch Forehead Thermometer After Wearing Headwear
+### 🌡️  Bio 201 Biostatistics Final Project
+#### How Long to Wait Before Using an Infrared No-Touch Forehead Thermometer After Wearing Headwear
 Overview: For my final for my Biostatistics course, I along with a team of other students created and implimented an experiment to verify the quality of a provided medical device. We were assigned an Infrared No-Touch Forehead Thermometer (INTFT) and noticed there was no guidelines regarding headwear and its effect of temperature on the device's measurement. Therefore, we created an experiment to find a reasonable parameter to include in the device's manual to improve its ease of use. We are currently finshing the report. All data analysis was conducted in excel. 
 
 <img width="549" alt="Screen Shot 2025-04-14 at 6 23 51 PM" src="https://github.com/user-attachments/assets/f7fd50e0-4dd9-411c-a83e-ccd40849ccea" />
