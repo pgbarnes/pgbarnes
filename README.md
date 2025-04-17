@@ -59,7 +59,9 @@ Overview:
 
 #### 🌎 Summer 2024 Sociology and Data Science Research w/ Dr. Eastwood: Exploring Cyncisim Around the World
 Overview: 
-![DSCF8603](https://github.com/user-attachments/assets/78b522cb-db70-479d-bd83-f0252787d06d)
+
+<img width="799" alt="Screen Shot 2025-04-17 at 11 51 32 AM" src="https://github.com/user-attachments/assets/a146a604-9ba5-40ab-a31d-29c28343fa2c" />
+
 A picture of the team!
 
 <!--
