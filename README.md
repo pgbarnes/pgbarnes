@@ -52,13 +52,33 @@ Autocorrelation plot comparing the circardian rhthyms of control versus treatmen
 
 
 #### 🫂 Soan 244 Personal Netowrks & Social Capital: The Influence of Student’s Ethnoracial Identity and Greek Life Affiliation on their Sense of Belonging and Network Structure
-Overview: 
+Overview: For this course, the final project was an individual paper where we had the opportunity to explore a sociological question, where we utilized data from the survey we created as a class.  I chose to explore how Greek affiliation impacts students’ sense of belonging and network structure differently based on their racial identity. 
+
+<img width="641" alt="Screen Shot 2025-04-17 at 5 16 16 PM" src="https://github.com/user-attachments/assets/a9d3403a-b0f9-4cec-892b-d3f72899792c" /> 
+ 
+ Interaction plot highlighting the relationship between sense of belonging and Greek organization membership by racial identity.
+
+<img width="579" alt="Screen Shot 2025-04-17 at 5 16 53 PM" src="https://github.com/user-attachments/assets/54052924-7aa9-4825-96b6-1775d5c1db92" />
+
+Linear regression plots of the relationship between constraint and sense of belonging by both racial identity and Greek organization membership.
+
 
 #### 🦠 Independent Study: How COVID-19 Deaths Varied over Time by Race & Ethnicity in the U.S.
-Overview: 
+Overview: I decided to do an individual research analysis to explore how COVID-19 mortality affected different racial and age groups, as well as the interactions between the two factors. All data was from the CDC and all figures were made in R. 
+
+![image](https://github.com/user-attachments/assets/256fddfb-4726-4ce3-b77c-a80a05a98aaa)
+In this graph, we can see how COVID-19 mortality rates have overall dropped from 2020 to 2023. Interestingly, we can see a large spike in COVID-19 mortality rates around March to April in 2020, a crucial time during the pandemic. 
+
+![image](https://github.com/user-attachments/assets/abd52552-4adc-4a69-bb69-e1de36296499)
+In this graph, it seems that certain ethnic groups (Non-Hispanic Black, Non-Hispanic American Indian or Alaska Native, and Hispanic) also have non-proportionally higher mortality rates for a younger age demographics,65-74 years group, in comparison to the Non-Hispanic White group.
+
 
 #### 🌎 Summer 2024 Sociology and Data Science Research w/ Dr. Eastwood: Exploring Cyncisim Around the World
-Overview: 
+Overview: This past summer, I was a part of Dr. Eastwood's sociology and data science lab. We analyzed comparative survey data about cynicism, trust, and distrust using the Worlds Value Survey, as well as did our own individual analysis regarding a specific area of interest. I investigated how social status impacts trust.
+
+<img width="457" alt="Screen Shot 2025-04-17 at 5 33 11 PM" src="https://github.com/user-attachments/assets/58a33671-4ffc-4371-8f5b-4e0d77084919" />
+
+Interaction plot showing how income responds to levels of trust.
 
 <img width="464" alt="Screen Shot 2025-04-17 at 2 59 01 PM" src="https://github.com/user-attachments/assets/cde12023-5d5d-4d53-a8b2-8a5c719d7b8a" />
 
