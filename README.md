@@ -38,7 +38,7 @@ One of our final figures. The Principal Component Analysis revealed some of the 
 
 
 #### ⏰ Bio 297 Behavioral Data Science Final Project: Exploring Behavioral Patterns in SCN DKO and Control Mice
-Overview: Similar to my previous work on my Bio 187 final project, we were provided rat activity data from Dr. Lauren Woodie's lab from University of Pennsylvania. We were assigned to identify which animals have received a neurological treatment that affected their behavior versus the control animals. We had to calculat each animal's activity period based on the raw data then utilized autcorrelation and raster plots to visualize the differences in acitivity to make our final decision. This project was recommended by our professor, Dr. Toporikova, to be submitted to the Undergraduate Class Project competition. 
+Overview: Similar to my previous work on my Bio 187 final project, we were provided rat activity data from Dr. Lauren Woodie's lab from University of Pennsylvania. We were assigned to identify which animals received a neurological treatment that affected their behavior versus the control animals with normal behavior. We had to calculate each animal's activity period based on the raw data then utilized autcorrelation and raster plots to visualize the differences in acitivity to make our final decision. This project was recommended by our professor, Dr. Toporikova, to be submitted to the Undergraduate Class Project competition. 
 
 <img width="514" alt="Screen Shot 2025-04-16 at 10 03 10 PM" src="https://github.com/user-attachments/assets/a998fe78-7db7-40e9-87d7-e1705cefeab3" />
 
