@@ -13,7 +13,7 @@ Hello! My name is P. I am a senior Biology major with minors in Data Science and
 As of right now, I am wrapping up my undergraduate career and applying for future opportunities. Outside of my studies, I am getting familiar with SQL using leetcode and other available resources.
 
 ### 🍿  Neuroscience and Biology Research w/ Dr. I'Anson: Exploring Snacking's Role in the Development of Metabolic Disease using a Novel Snacking Rat Model
-Currently, we are finishing up final quantification, data analysis, and just started writing our paper on the impacts of snacking from weaning!
+Currently, we are finishing up final quantification, data analysis, and just started writing our paper on the impacts of snacking from weaning in our novel female rat model!
 
 
 ### 🌡️  Bio 201 Biostatistics Final Project: How Long to Wait Before Using an Infrared No-Touch Forehead Thermometer After Wearing Headwear
