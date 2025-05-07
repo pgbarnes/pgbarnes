@@ -33,7 +33,7 @@ Experimental Design for the data.
 
 <img width="567" alt="Screen Shot 2025-04-14 at 6 33 08 PM" src="https://github.com/user-attachments/assets/07aa1f95-f336-4949-9ee9-c873247af651" />
 
-One of our final figures. The Principal Component Analysis revealed some of the key differences in gene expression between diseased mice with treatment (KDLPS), who more aligned with the control (saline), versus diseased mice without treatment (LPS). We also identified KD LPS mice who did not properly uptake the genetic knockdown treatment as they were more simialr to LPS mice than saline mice.  
+One of our final figures. The Principal Component Analysis revealed some of the key differences in gene expression between diseased mice with treatment (KDLPS), who more aligned with the control (saline), versus diseased mice without treatment (LPS). We also identified KD LPS mice who did not properly uptake the genetic knockdown treatment as they were more similar to LPS mice than saline mice.  
 
 
 
