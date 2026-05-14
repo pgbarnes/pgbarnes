@@ -10,7 +10,7 @@ Hello! My name is P. I am a graduated Biology major with minors in Data Science 
 ![Untitled_design__5_-removebg-preview](https://github.com/user-attachments/assets/9a87f50b-3cf5-4704-bc18-95680e95c696) ![Untitled_design__6_-removebg-preview](https://github.com/user-attachments/assets/c55e0c19-2a40-4bbd-8429-8e6016af51e1) ![Untitled_design__4_-removebg-preview](https://github.com/user-attachments/assets/bddc281d-7b37-4b26-beef-c73928eb5675) 
 
 ## 🚧 Most Recent Projects
-As of right now, I am wrapping up my undergraduate career and applying for future opportunities. Outside of my studies, I am getting familiar with SQL using leetcode and other available resources.
+As of right now, I am currently working in two community outreach roles. Outside of my position, I am wrapping up quantification for Dr. I'Anson's lab, as well as volunteering for organizations aimed to aid wildlife and animal-human connections in Chicago including Urban Rivers, PAWS Chicago, and the Chicago Wildlife Watch through Lincoln Park Zoo. 
 
 ### 🍿  Neuroscience and Biology Research w/ Dr. I'Anson: Exploring Snacking's Role in the Development of Metabolic Disease using a Novel Snacking Rat Model
 Overview: Currently, we are finishing up final quantification, data analysis, and just started writing our paper on the impacts of snacking from weaning in our novel female rat model!
